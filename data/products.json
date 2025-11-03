@@ -1,0 +1,120 @@
+{
+    "acne": [
+        {
+            "name": "Fix Derma Shadow SPF 30+ Gel",
+            "type": "Sunscreen",
+            "key_highlights": [
+                "Non-comedogenic formula",
+                "Oil-free and lightweight",
+                "Broad spectrum protection",
+                "Suitable for acne-prone skin"
+            ],
+            "price": "₹649",
+            "size": "75g"
+        },
+        {
+            "name": "Fix Derma FCL Acne Cleansing Gel",
+            "type": "Cleanser",
+            "key_highlights": [
+                "Deep cleanses pores",
+                "Controls excess oil",
+                "Contains salicylic acid",
+                "Reduces acne breakouts"
+            ],
+            "price": "₹375",
+            "size": "100ml"
+        }
+    ],
+    "pigmentation": [
+        {
+            "name": "Fix Derma Nigrifix Cream",
+            "type": "Brightening Cream",
+            "key_highlights": [
+                "Reduces dark spots",
+                "Even skin tone",
+                "Contains kojic acid",
+                "Lightens hyperpigmentation"
+            ],
+            "price": "₹525",
+            "size": "30g"
+        },
+        {
+            "name": "Fix Derma Melanorm Serum",
+            "type": "Serum",
+            "key_highlights": [
+                "Powerful brightening formula",
+                "Reduces melasma",
+                "Contains tranexamic acid",
+                "Fast-acting results"
+            ],
+            "price": "₹825",
+            "size": "30ml"
+        }
+    ],
+    "aging": [
+        {
+            "name": "Fix Derma Strallium Stretch Marks Cream",
+            "type": "Anti-aging & Repair",
+            "key_highlights": [
+                "Reduces fine lines",
+                "Improves skin elasticity",
+                "Hydrates deeply",
+                "Repairs damaged skin"
+            ],
+            "price": "₹749",
+            "size": "75g"
+        },
+        {
+            "name": "Fix Derma Retino 360 Cream",
+            "type": "Retinol Cream",
+            "key_highlights": [
+                "Contains retinol",
+                "Anti-aging formula",
+                "Smooths wrinkles",
+                "Improves texture"
+            ],
+            "price": "₹895",
+            "size": "30g"
+        }
+    ],
+    "dryness": [
+        {
+            "name": "Fix Derma Foamie Face Wash",
+            "type": "Gentle Cleanser",
+            "key_highlights": [
+                "Hydrating formula",
+                "Gentle on dry skin",
+                "pH balanced",
+                "No harsh chemicals"
+            ],
+            "price": "₹399",
+            "size": "100ml"
+        },
+        {
+            "name": "Fix Derma Emolene Cream",
+            "type": "Moisturizer",
+            "key_highlights": [
+                "Deep hydration",
+                "Repairs skin barrier",
+                "Long-lasting moisture",
+                "Non-greasy formula"
+            ],
+            "price": "₹575",
+            "size": "100g"
+        }
+    ],
+    "sensitivity": [
+        {
+            "name": "Fix Derma Strallium Cream",
+            "type": "Soothing Cream",
+            "key_highlights": [
+                "Calms irritated skin",
+                "Hypoallergenic",
+                "Fragrance-free",
+                "Strengthens skin barrier"
+            ],
+            "price": "₹749",
+            "size": "75g"
+        }
+    ]
+}
